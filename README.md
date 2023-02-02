@@ -4,5 +4,6 @@
 Project Name - sales_insights
 1. MySQL
 2. Tableau
-3. Data cleaning 
-4. Data visualization
+3. star schema
+4. Data cleaning 
+5. Data visualization
